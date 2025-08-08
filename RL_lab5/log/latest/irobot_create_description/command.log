@@ -1,0 +1,4 @@
+Invoking command in '/home/aisd/RL_lab5/build/irobot_create_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aisd/RL_lab5/build/irobot_create_description -- -j4 -l4
+Invoked command in '/home/aisd/RL_lab5/build/irobot_create_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aisd/RL_lab5/build/irobot_create_description -- -j4 -l4
+Invoking command in '/home/aisd/RL_lab5/build/irobot_create_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aisd/RL_lab5/build/irobot_create_description
+Invoked command in '/home/aisd/RL_lab5/build/irobot_create_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aisd/RL_lab5/build/irobot_create_description

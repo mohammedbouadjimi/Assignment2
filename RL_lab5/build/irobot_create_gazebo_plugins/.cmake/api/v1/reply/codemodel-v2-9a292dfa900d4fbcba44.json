@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-08f3698774534cfeea04.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "irobot_create_gazebo_plugins",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "docking_manager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-docking_manager-c96463a7f66684a1723f.json",
+					"name" : "docking_manager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gazebo_ros_create_bumper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gazebo_ros_create_bumper-29478fdeee3c7aa41921.json",
+					"name" : "gazebo_ros_create_bumper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gazebo_ros_create_cliff_sensor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gazebo_ros_create_cliff_sensor-fd86d17649cbe3e38261.json",
+					"name" : "gazebo_ros_create_cliff_sensor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gazebo_ros_create_docking_status::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gazebo_ros_create_docking_status-7c5e23a352bc936f3564.json",
+					"name" : "gazebo_ros_create_docking_status",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gazebo_ros_create_helpers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gazebo_ros_create_helpers-3ebb5dd05c3cf2acd892.json",
+					"name" : "gazebo_ros_create_helpers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gazebo_ros_create_imu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gazebo_ros_create_imu-949de3ea844413872687.json",
+					"name" : "gazebo_ros_create_imu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gazebo_ros_create_ir_intensity_sensor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gazebo_ros_create_ir_intensity_sensor-167690103687a9186c7d.json",
+					"name" : "gazebo_ros_create_ir_intensity_sensor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gazebo_ros_create_ir_opcode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gazebo_ros_create_ir_opcode-ed91d4155dcdf37432f9.json",
+					"name" : "gazebo_ros_create_ir_opcode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gazebo_ros_create_optical_mouse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gazebo_ros_create_optical_mouse-993407b3140cd9a13642.json",
+					"name" : "gazebo_ros_create_optical_mouse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gazebo_ros_create_wheel_drop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gazebo_ros_create_wheel_drop-2704ceaf0f4912d0f6b8.json",
+					"name" : "gazebo_ros_create_wheel_drop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "irobot_create_gazebo_plugins_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-irobot_create_gazebo_plugins_uninstall-4a6ae122f5d6db217c10.json",
+					"name" : "irobot_create_gazebo_plugins_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-c076c942f4eca2c2f88d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/aisd/RL_lab5/build/irobot_create_gazebo_plugins",
+		"source" : "/home/aisd/RL_lab5/create3_ws/src/create3_sim/irobot_create_gazebo/irobot_create_gazebo_plugins"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

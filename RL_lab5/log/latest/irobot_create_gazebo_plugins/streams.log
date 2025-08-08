@@ -1,0 +1,67 @@
+[0.039s] Invoking command in '/home/aisd/RL_lab5/build/irobot_create_gazebo_plugins': CMAKE_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_ignition_sim:/home/aisd/RL_lab5/install/irobot_create_ignition_bringup:/home/aisd/RL_lab5/install/irobot_create_gazebo_sim:/home/aisd/RL_lab5/install/irobot_create_gazebo_bringup:/home/aisd/RL_lab5/install/irobot_create_common_bringup:/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_ignition_toolbox:/home/aisd/RL_lab5/install/irobot_create_gazebo_plugins:/home/aisd/RL_lab5/install/irobot_create_ignition_plugins:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:/home/aisd/RL_lab5/install/aws_robomaker_small_house_world:/opt/ros/humble LD_LIBRARY_PATH=/home/aisd/RL_lab5/install/irobot_create_toolbox/lib:/home/aisd/RL_lab5/install/irobot_create_nodes/lib:/home/aisd/RL_lab5/install/irobot_create_ignition_toolbox/lib:/home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/aisd/RL_lab5/build/irobot_create_gazebo_plugins -- -j4 -l4
+[0.350s] [35m[1mConsolidate compiler generated dependencies of target gazebo_ros_create_helpers[0m
+[0.351s] [ 10%] Built target gazebo_ros_create_helpers
+[0.352s] [35m[1mConsolidate compiler generated dependencies of target gazebo_ros_create_cliff_sensor[0m
+[0.362s] [35m[1mConsolidate compiler generated dependencies of target gazebo_ros_create_bumper[0m
+[0.500s] [ 20%] Built target gazebo_ros_create_bumper
+[0.537s] [ 30%] Built target gazebo_ros_create_cliff_sensor
+[0.561s] [35m[1mConsolidate compiler generated dependencies of target gazebo_ros_create_imu[0m
+[0.597s] [35m[1mConsolidate compiler generated dependencies of target gazebo_ros_create_ir_intensity_sensor[0m
+[0.706s] [ 40%] Built target gazebo_ros_create_ir_intensity_sensor
+[0.733s] [35m[1mConsolidate compiler generated dependencies of target gazebo_ros_create_optical_mouse[0m
+[0.743s] [ 50%] Built target gazebo_ros_create_imu
+[0.810s] [35m[1mConsolidate compiler generated dependencies of target docking_manager[0m
+[0.871s] [ 60%] Built target gazebo_ros_create_optical_mouse
+[0.936s] [ 70%] Built target docking_manager
+[0.947s] [35m[1mConsolidate compiler generated dependencies of target gazebo_ros_create_wheel_drop[0m
+[0.982s] [35m[1mConsolidate compiler generated dependencies of target gazebo_ros_create_docking_status[0m
+[1.082s] [ 80%] Built target gazebo_ros_create_wheel_drop
+[1.125s] [35m[1mConsolidate compiler generated dependencies of target gazebo_ros_create_ir_opcode[0m
+[1.168s] [ 90%] Built target gazebo_ros_create_docking_status
+[1.226s] [100%] Built target gazebo_ros_create_ir_opcode
+[1.246s] Invoked command in '/home/aisd/RL_lab5/build/irobot_create_gazebo_plugins' returned '0': CMAKE_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_ignition_sim:/home/aisd/RL_lab5/install/irobot_create_ignition_bringup:/home/aisd/RL_lab5/install/irobot_create_gazebo_sim:/home/aisd/RL_lab5/install/irobot_create_gazebo_bringup:/home/aisd/RL_lab5/install/irobot_create_common_bringup:/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_ignition_toolbox:/home/aisd/RL_lab5/install/irobot_create_gazebo_plugins:/home/aisd/RL_lab5/install/irobot_create_ignition_plugins:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:/home/aisd/RL_lab5/install/aws_robomaker_small_house_world:/opt/ros/humble LD_LIBRARY_PATH=/home/aisd/RL_lab5/install/irobot_create_toolbox/lib:/home/aisd/RL_lab5/install/irobot_create_nodes/lib:/home/aisd/RL_lab5/install/irobot_create_ignition_toolbox/lib:/home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/aisd/RL_lab5/build/irobot_create_gazebo_plugins -- -j4 -l4
+[1.247s] Invoking command in '/home/aisd/RL_lab5/build/irobot_create_gazebo_plugins': CMAKE_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_ignition_sim:/home/aisd/RL_lab5/install/irobot_create_ignition_bringup:/home/aisd/RL_lab5/install/irobot_create_gazebo_sim:/home/aisd/RL_lab5/install/irobot_create_gazebo_bringup:/home/aisd/RL_lab5/install/irobot_create_common_bringup:/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_ignition_toolbox:/home/aisd/RL_lab5/install/irobot_create_gazebo_plugins:/home/aisd/RL_lab5/install/irobot_create_ignition_plugins:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:/home/aisd/RL_lab5/install/aws_robomaker_small_house_world:/opt/ros/humble LD_LIBRARY_PATH=/home/aisd/RL_lab5/install/irobot_create_toolbox/lib:/home/aisd/RL_lab5/install/irobot_create_nodes/lib:/home/aisd/RL_lab5/install/irobot_create_ignition_toolbox/lib:/home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/aisd/RL_lab5/build/irobot_create_gazebo_plugins
+[1.259s] -- Install configuration: ""
+[1.259s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/environment/library_path.sh
+[1.260s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/environment/library_path.dsv
+[1.260s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/include
+[1.260s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/include/irobot_create_gazebo_plugins
+[1.260s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/include/irobot_create_gazebo_plugins/gazebo_ros_optical_mouse.hpp
+[1.261s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/include/irobot_create_gazebo_plugins/gazebo_ros_ir_opcode.hpp
+[1.261s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/include/irobot_create_gazebo_plugins/gazebo_ros_ir_intensity_sensor.hpp
+[1.261s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/include/irobot_create_gazebo_plugins/gazebo_ros_cliff_sensor.hpp
+[1.261s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/include/irobot_create_gazebo_plugins/gazebo_ros_imu.hpp
+[1.261s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/include/irobot_create_gazebo_plugins/gazebo_ros_wheel_drop.hpp
+[1.262s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/include/irobot_create_gazebo_plugins/docking_manager.hpp
+[1.262s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/include/irobot_create_gazebo_plugins/gazebo_ros_helpers.hpp
+[1.262s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/include/irobot_create_gazebo_plugins/gazebo_ros_bumper.hpp
+[1.262s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/include/irobot_create_gazebo_plugins/gazebo_ros_docking_status.hpp
+[1.262s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib/libgazebo_ros_create_bumper.so
+[1.263s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib/libgazebo_ros_create_cliff_sensor.so
+[1.263s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib/libgazebo_ros_create_docking_status.so
+[1.263s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib/libgazebo_ros_create_helpers.so
+[1.264s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib/libgazebo_ros_create_imu.so
+[1.265s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib/libgazebo_ros_create_ir_intensity_sensor.so
+[1.265s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib/libgazebo_ros_create_optical_mouse.so
+[1.266s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib/libgazebo_ros_create_ir_opcode.so
+[1.267s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib/libdocking_manager.so
+[1.268s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib/libgazebo_ros_create_wheel_drop.so
+[1.268s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/ament_index/resource_index/package_run_dependencies/irobot_create_gazebo_plugins
+[1.268s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/ament_index/resource_index/parent_prefix_path/irobot_create_gazebo_plugins
+[1.269s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/environment/ament_prefix_path.sh
+[1.269s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/environment/ament_prefix_path.dsv
+[1.269s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/environment/path.sh
+[1.270s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/environment/path.dsv
+[1.270s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/local_setup.bash
+[1.270s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/local_setup.sh
+[1.270s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/local_setup.zsh
+[1.270s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/local_setup.dsv
+[1.271s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/package.dsv
+[1.271s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/ament_index/resource_index/packages/irobot_create_gazebo_plugins
+[1.271s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/cmake/ament_cmake_export_libraries-extras.cmake
+[1.271s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.272s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.272s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/cmake/irobot_create_gazebo_pluginsConfig.cmake
+[1.274s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/cmake/irobot_create_gazebo_pluginsConfig-version.cmake
+[1.274s] -- Up-to-date: /home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/share/irobot_create_gazebo_plugins/package.xml
+[1.278s] Invoked command in '/home/aisd/RL_lab5/build/irobot_create_gazebo_plugins' returned '0': CMAKE_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_ignition_sim:/home/aisd/RL_lab5/install/irobot_create_ignition_bringup:/home/aisd/RL_lab5/install/irobot_create_gazebo_sim:/home/aisd/RL_lab5/install/irobot_create_gazebo_bringup:/home/aisd/RL_lab5/install/irobot_create_common_bringup:/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_ignition_toolbox:/home/aisd/RL_lab5/install/irobot_create_gazebo_plugins:/home/aisd/RL_lab5/install/irobot_create_ignition_plugins:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:/home/aisd/RL_lab5/install/aws_robomaker_small_house_world:/opt/ros/humble LD_LIBRARY_PATH=/home/aisd/RL_lab5/install/irobot_create_toolbox/lib:/home/aisd/RL_lab5/install/irobot_create_nodes/lib:/home/aisd/RL_lab5/install/irobot_create_ignition_toolbox/lib:/home/aisd/RL_lab5/install/irobot_create_gazebo_plugins/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/aisd/RL_lab5/build/irobot_create_gazebo_plugins

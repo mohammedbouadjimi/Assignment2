@@ -1,0 +1,15 @@
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/ament_index/resource_index/package_run_dependencies/irobot_create_ignition_sim
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/ament_index/resource_index/parent_prefix_path/irobot_create_ignition_sim
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/irobot_create_ignition_sim/environment/ament_prefix_path.sh
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/irobot_create_ignition_sim/environment/ament_prefix_path.dsv
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/irobot_create_ignition_sim/environment/path.sh
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/irobot_create_ignition_sim/environment/path.dsv
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/irobot_create_ignition_sim/local_setup.bash
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/irobot_create_ignition_sim/local_setup.sh
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/irobot_create_ignition_sim/local_setup.zsh
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/irobot_create_ignition_sim/local_setup.dsv
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/irobot_create_ignition_sim/package.dsv
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/ament_index/resource_index/packages/irobot_create_ignition_sim
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/irobot_create_ignition_sim/cmake/irobot_create_ignition_simConfig.cmake
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/irobot_create_ignition_sim/cmake/irobot_create_ignition_simConfig-version.cmake
+/home/aisd/RL_lab5/create3_ws/install/irobot_create_ignition_sim/share/irobot_create_ignition_sim/package.xml

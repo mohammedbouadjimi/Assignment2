@@ -1,0 +1,85 @@
+[0.031s] Invoking command in '/home/aisd/RL_lab5/build/irobot_create_common_bringup': AMENT_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:/opt/ros/humble LD_LIBRARY_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes/lib:/home/aisd/RL_lab5/install/irobot_create_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/aisd/RL_lab5/create3_ws/src/create3_sim/irobot_create_common/irobot_create_common_bringup -DCMAKE_INSTALL_PREFIX=/home/aisd/RL_lab5/install/irobot_create_common_bringup
+[0.183s] -- The C compiler identification is GNU 11.4.0
+[0.283s] -- The CXX compiler identification is GNU 11.4.0
+[0.306s] -- Detecting C compiler ABI info
+[0.414s] -- Detecting C compiler ABI info - done
+[0.437s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.439s] -- Detecting C compile features
+[0.440s] -- Detecting C compile features - done
+[0.452s] -- Detecting CXX compiler ABI info
+[0.574s] -- Detecting CXX compiler ABI info - done
+[0.593s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.594s] -- Detecting CXX compile features
+[0.595s] -- Detecting CXX compile features - done
+[0.612s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.871s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.213s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.351s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.352s] -- Added test 'lint_cmake' to check CMake code style
+[1.353s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.356s] -- Added test 'xmllint' to check XML markup files
+[1.358s] -- Configuring done
+[1.365s] -- Generating done
+[1.369s] -- Build files have been written to: /home/aisd/RL_lab5/build/irobot_create_common_bringup
+[1.376s] Invoked command in '/home/aisd/RL_lab5/build/irobot_create_common_bringup' returned '0': AMENT_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:/opt/ros/humble LD_LIBRARY_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes/lib:/home/aisd/RL_lab5/install/irobot_create_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/aisd/RL_lab5/create3_ws/src/create3_sim/irobot_create_common/irobot_create_common_bringup -DCMAKE_INSTALL_PREFIX=/home/aisd/RL_lab5/install/irobot_create_common_bringup
+[1.378s] Invoking command in '/home/aisd/RL_lab5/build/irobot_create_common_bringup': AMENT_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:/opt/ros/humble LD_LIBRARY_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes/lib:/home/aisd/RL_lab5/install/irobot_create_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/aisd/RL_lab5/build/irobot_create_common_bringup -- -j4 -l4
+[1.461s] Built target ament_cmake_python_copy_irobot_create_common_bringup
+[2.218s] running egg_info
+[2.219s] creating irobot_create_common_bringup.egg-info
+[2.219s] writing irobot_create_common_bringup.egg-info/PKG-INFO
+[2.220s] writing dependency_links to irobot_create_common_bringup.egg-info/dependency_links.txt
+[2.220s] writing top-level names to irobot_create_common_bringup.egg-info/top_level.txt
+[2.220s] writing manifest file 'irobot_create_common_bringup.egg-info/SOURCES.txt'
+[2.224s] reading manifest file 'irobot_create_common_bringup.egg-info/SOURCES.txt'
+[2.225s] writing manifest file 'irobot_create_common_bringup.egg-info/SOURCES.txt'
+[2.269s] Built target ament_cmake_python_build_irobot_create_common_bringup_egg
+[2.285s] Invoked command in '/home/aisd/RL_lab5/build/irobot_create_common_bringup' returned '0': AMENT_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:/opt/ros/humble LD_LIBRARY_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes/lib:/home/aisd/RL_lab5/install/irobot_create_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/aisd/RL_lab5/build/irobot_create_common_bringup -- -j4 -l4
+[2.288s] Invoking command in '/home/aisd/RL_lab5/build/irobot_create_common_bringup': AMENT_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:/opt/ros/humble LD_LIBRARY_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes/lib:/home/aisd/RL_lab5/install/irobot_create_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/aisd/RL_lab5/build/irobot_create_common_bringup
+[2.300s] -- Install configuration: ""
+[2.301s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/config
+[2.301s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/config/ui_mgr_params.yaml
+[2.305s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/config/mock_params.yaml
+[2.305s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/config/kidnap_estimator_params.yaml
+[2.305s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/config/wheel_status_params.yaml
+[2.306s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/config/ir_intensity_vector_params.yaml
+[2.306s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/config/robot_state_params.yaml
+[2.306s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/config/hazard_vector_params.yaml
+[2.307s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/launch
+[2.307s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/launch/dock_description.launch.py
+[2.307s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/launch/rviz2.launch.py
+[2.308s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/launch/create3_nodes.launch.py
+[2.309s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/launch/robot_description.launch.py
+[2.311s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/rviz
+[2.311s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/rviz/irobot_create_view.rviz
+[2.312s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/rviz/irobot_logo.jpg
+[2.312s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/environment/pythonpath.sh
+[2.312s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/environment/pythonpath.dsv
+[2.312s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages/irobot_create_common_bringup-2.1.0-py3.10.egg-info
+[2.333s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages/irobot_create_common_bringup-2.1.0-py3.10.egg-info/top_level.txt
+[2.333s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages/irobot_create_common_bringup-2.1.0-py3.10.egg-info/dependency_links.txt
+[2.333s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages/irobot_create_common_bringup-2.1.0-py3.10.egg-info/SOURCES.txt
+[2.334s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages/irobot_create_common_bringup-2.1.0-py3.10.egg-info/PKG-INFO
+[2.334s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages/irobot_create_common_bringup
+[2.334s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages/irobot_create_common_bringup/__init__.py
+[2.334s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages/irobot_create_common_bringup/namespace.py
+[2.334s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages/irobot_create_common_bringup/offset.py
+[2.408s] Listing '/home/aisd/RL_lab5/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages/irobot_create_common_bringup'...
+[2.408s] Compiling '/home/aisd/RL_lab5/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages/irobot_create_common_bringup/__init__.py'...
+[2.409s] Compiling '/home/aisd/RL_lab5/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages/irobot_create_common_bringup/namespace.py'...
+[2.409s] Compiling '/home/aisd/RL_lab5/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages/irobot_create_common_bringup/offset.py'...
+[2.420s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/ament_index/resource_index/package_run_dependencies/irobot_create_common_bringup
+[2.420s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/ament_index/resource_index/parent_prefix_path/irobot_create_common_bringup
+[2.420s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/environment/ament_prefix_path.sh
+[2.421s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/environment/ament_prefix_path.dsv
+[2.421s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/environment/path.sh
+[2.421s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/environment/path.dsv
+[2.422s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/local_setup.bash
+[2.423s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/local_setup.sh
+[2.423s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/local_setup.zsh
+[2.423s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/local_setup.dsv
+[2.423s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/package.dsv
+[2.424s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/ament_index/resource_index/packages/irobot_create_common_bringup
+[2.425s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/cmake/irobot_create_common_bringupConfig.cmake
+[2.425s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/cmake/irobot_create_common_bringupConfig-version.cmake
+[2.425s] -- Installing: /home/aisd/RL_lab5/install/irobot_create_common_bringup/share/irobot_create_common_bringup/package.xml
+[2.429s] Invoked command in '/home/aisd/RL_lab5/build/irobot_create_common_bringup' returned '0': AMENT_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes:/home/aisd/RL_lab5/install/irobot_create_toolbox:/home/aisd/RL_lab5/install/irobot_create_description:/home/aisd/RL_lab5/install/irobot_create_control:/opt/ros/humble LD_LIBRARY_PATH=/home/aisd/RL_lab5/install/irobot_create_nodes/lib:/home/aisd/RL_lab5/install/irobot_create_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/aisd/RL_lab5/build/irobot_create_common_bringup
